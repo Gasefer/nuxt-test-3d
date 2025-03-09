@@ -64,7 +64,7 @@ onMounted(() => {
         "
       />
     </div>
-    <NuxtLink to="/" class="text-blue-500 hover:underline mt-4"
+    <NuxtLink to="/nuxt-test-3d" class="text-blue-500 hover:underline mt-4"
       >Перейти на головну</NuxtLink
     >
   </div>
