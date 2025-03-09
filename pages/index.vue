@@ -17,7 +17,7 @@ const { data: news } = await useFetch("/api/news");
         <p class="text-sm text-gray-400">{{ item.date }}</p>
       </div>
     </div>
-    <NuxtLink to="/visualization" class="text-blue-500 hover:underline mt-4"
+    <NuxtLink to="/nuxt-test-3d/visualization" class="text-blue-500 hover:underline mt-4"
       >Перейти на візуалізацію</NuxtLink
     >
   </div>
